@@ -1,7 +1,7 @@
 {
   "name": "desafio3-lavie-gamaacademy",
   "version": "1.0.0",
-  "description": "Criacao de API para o desafio 3 da turma 45 da Gama Academy",
+  "description": "Criacao de API para o desafio 3 da turma 47 da Gama Academy",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/app.js",
