@@ -47,5 +47,5 @@ Para criação do atendimento é necessário uma autorização. Essa autorizaç�
 ## Desenvolvedores responsáveis pelo projeto - Grupo nº 1
   
 [Daniel Alejandro](https://github.com/FullDevDaniel) e 
-Arthur Pinheiro
+[Arthur Pinheiro](https://github.com/arturpinheiro0)
 
